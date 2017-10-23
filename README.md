@@ -1,5 +1,5 @@
 # Alexa Shower Thoughts 
-Access various intriguing shower thoughts in an instant.
+Alexa Skill to access various intriguing shower thoughts in an instant.
 
 # Inspiation 
 Often times, when we shower, the deepest thought-provoking questions come to our mind. Why wait until shower time to be deeply fascinated by eye-opening thoughts? We decided to create an Alexa skill that tells you a shower thought upon command.
